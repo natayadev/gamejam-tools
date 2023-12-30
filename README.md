@@ -17,6 +17,8 @@
 
 ## Preproducción
 
+### 🔧 Motores de videojuegos + apps
+
 ### 🔊 Música y sonido
 
 - [BeepBox](https://www.beepbox.co/)
@@ -27,6 +29,14 @@
 - [Reaper](https://drive.google.com/drive/folders/11azXlwChfFwj7UcReWnmI_KYhnB5RbFt?usp=drive_link)
 - [SFXR](https://sfxr.me/)
 - [Soundation](https://soundation.com/)
+
+### 🎨 Diseño UI UX
+
+- [Game Accessibility guidelines](https://gameaccessibilityguidelines.com/)
+
+### 🖌️ Arte 2D y 3D
+
+### ✍️ Narrativa
 
 ## Comunidades
 
