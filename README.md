@@ -39,6 +39,12 @@
 - [Soundation](https://soundation.com/)
 
 ### 🎨 Diseño UI UX
+- [Color Hunt](https://colorhunt.co/)
+- [FontBase](https://fontba.se/)
+- [Game UI DataBase](https://gameuidatabase.com/index.php)
+- [Lospec](https://lospec.com/)
+- [Magical Voxel](https://ephtracy.github.io/)
+- [OpenGameArt](https://opengameart.org/)
 
 ### ♿️ Accesibilidad
 - [Aspectos básicos sobre la accesibilidad en los juegos](https://learn.microsoft.com/es-es/training/paths/gaming-accessibility-fundamentals/)
@@ -47,8 +53,13 @@
 - [Libro blanco de accesibilidad para desarrolladores de videojuegos](https://biblioteca.fundaciononce.es/publicaciones/colecciones-propias/coleccion-accesibilidad/libro-blanco-de-accesibilidad-para)
 
 ### 🖌️ Arte 2D y 3D
+- [Aseprite](https://www.aseprite.org/)
+- [Piskel](https://www.piskelapp.com/)
+- [Pyxel Edit](https://pyxeledit.com/)
 
 ### ✍️ Narrativa
+- 
+-
 
 ## Comunidades
 
