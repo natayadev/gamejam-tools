@@ -8,10 +8,10 @@
 
 ## Canales de Youtube
 
-- [Game Maker's Toolkit](https://www.youtube.com/@GMTK)
 - [El Físico Gamer](https://www.youtube.com/@ElFisicoGamer)
-- [Nivel Unity](https://www.youtube.com/@nivelunity)
+- [Game Maker's Toolkit](https://www.youtube.com/@GMTK)
 - [Ludofonía](https://www.youtube.com/@Ludofonia)
+- [Nivel Unity](https://www.youtube.com/@nivelunity)
 - [Pixel Overload](https://www.youtube.com/@PixelOverloadChannel)
 - [The Regext](https://www.youtube.com/@TheRegext/videos)
 
@@ -40,7 +40,11 @@
 
 ### 🎨 Diseño UI UX
 
+### ♿️ Accesibilidad
+- [Aspectos básicos sobre la accesibilidad en los juegos](https://learn.microsoft.com/es-es/training/paths/gaming-accessibility-fundamentals/)
 - [Game Accessibility guidelines](https://gameaccessibilityguidelines.com/)
+- [Hablemos de accesibilidad en los videojuegos](https://pressover.news/articulos/hablemos-de-accesibilidad-en-los-videojuegos/)
+- [Libro blanco de accesibilidad para desarrolladores de videojuegos](https://biblioteca.fundaciononce.es/publicaciones/colecciones-propias/coleccion-accesibilidad/libro-blanco-de-accesibilidad-para)
 
 ### 🖌️ Arte 2D y 3D
 
