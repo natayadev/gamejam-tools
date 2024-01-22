@@ -14,6 +14,8 @@
 - [Nivel Unity](https://www.youtube.com/@nivelunity)
 - [Pixel Overload](https://www.youtube.com/@PixelOverloadChannel)
 - [The Regext](https://www.youtube.com/@TheRegext/videos)
+- [Alva Majo](https://www.youtube.com/@AlvaMajo)
+- [Plano de Juego](https://www.youtube.com/@PlanoDeJuego)
 
 ## Preproducción
 
@@ -26,6 +28,13 @@
 - [Ren'py](https://www.renpy.org/)
 - [RPGMaker](https://www.rpgmakerweb.com/)
 - [Twine](https://twinery.org/)
+- [PICO-8](https://www.lexaloffle.com/pico-8.php)
+- [Phaser Editor 2D](https://phasereditor2d.com/)
+
+### 💻 Librerías y Frameworks para programación de videojuegos
+- [PhaserJS (javascript)](https://phaser.io/)
+- [PixiJS (javascript)](https://pixijs.com/)
+- [HaxeFlixel (Haxe)](https://haxeflixel.com/)
 
 ### 🔊 Música y sonido
 
@@ -37,6 +46,7 @@
 - [Reaper](https://drive.google.com/drive/folders/11azXlwChfFwj7UcReWnmI_KYhnB5RbFt?usp=drive_link)
 - [SFXR](https://sfxr.me/)
 - [Soundation](https://soundation.com/)
+- [Audacity](https://audacity.es/)
 
 ### 🎨 Diseño UI UX
 - [Color Hunt](https://colorhunt.co/)
@@ -56,10 +66,16 @@
 - [Aseprite](https://www.aseprite.org/)
 - [Piskel](https://www.piskelapp.com/)
 - [Pyxel Edit](https://pyxeledit.com/)
+- [Itch.io Assets](https://itch.io/game-assets/free)
+
 
 ### ✍️ Narrativa
 - 
 -
+
+## Game Jams 
+- [Itch.io Game Jams](https://itch.io/jams)
+
 
 ## Comunidades
 
